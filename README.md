@@ -22,3 +22,4 @@ I can change the force.
 ![ezgif com-video-to-gif 2](https://user-images.githubusercontent.com/38050222/39779177-39112a5a-52bd-11e8-876c-96ceeee89a6e.gif)
 
 Here is my C# code for movement:
+![screenshot 6](https://user-images.githubusercontent.com/38050222/39779263-7dfabc1c-52bd-11e8-8397-69a48aac4bde.png)
