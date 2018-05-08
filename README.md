@@ -8,5 +8,4 @@ I added some physics features to my spheres so that they fall on the box with gr
 They can also bounce off each other.
 What I love about Unity is that I can change the sphere's settings (for example its weight) while the scene (game) is playing, and I can see the changes live!
 
-
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/38050222/39740131-1a346152-5249-11e8-8562-2e44d59e1a6e.gif)
