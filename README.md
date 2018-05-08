@@ -18,5 +18,7 @@ Today I added C# code and I create a function that pushes my sphere!
 ![ezgif com-video-to-gif 1](https://user-images.githubusercontent.com/38050222/39742246-aa17cacc-5251-11e8-8cc8-a466aa7b54ec.gif)
 
 Today I made my player (blue sphere) move with my keyboard.
+I can change the force.
+![ezgif com-video-to-gif 2](https://user-images.githubusercontent.com/38050222/39779177-39112a5a-52bd-11e8-876c-96ceeee89a6e.gif)
 
-
+Here is my C# code for movement:
