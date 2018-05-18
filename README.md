@@ -24,5 +24,8 @@ I can change the force.
 Here is my C# code for movement:
 ![screenshot 6](https://user-images.githubusercontent.com/38050222/39779263-7dfabc1c-52bd-11e8-8397-69a48aac4bde.png)
 
+GIF: I finally made the camera follow the player. I can also make it follow the player without seeing the player (first person).
+![ezgif com-video-to-gif 3](https://user-images.githubusercontent.com/38050222/40220389-d0860d02-5a2d-11e8-867f-609dde8c8467.gif)
+
 C# Code to make the Camera follow my sphere:
 ![screenshot 7](https://user-images.githubusercontent.com/38050222/40220096-d5fe55e2-5a2c-11e8-8bd5-ba676ca9de89.png)
