@@ -33,3 +33,6 @@ C# Code to make the Camera follow my sphere:
 Here is my first game play:
 I added obstacles, and whenever the player touches an obstacle the play will not moving.
 ![ezgif com-video-to-gif 4](https://user-images.githubusercontent.com/38050222/40599442-2e079fa0-6202-11e8-8fcc-8474c56d384e.gif)
+
+I added a text to keep track of the score:
+![screenshot 8](https://user-images.githubusercontent.com/38050222/40634464-089c553c-62aa-11e8-839f-fecbb26f3bac.png)
