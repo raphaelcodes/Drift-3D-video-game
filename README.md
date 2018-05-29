@@ -35,3 +35,4 @@ I added obstacles, and whenever the player touches an obstacle the play will not
 ![ezgif com-video-to-gif 4](https://user-images.githubusercontent.com/38050222/40599442-2e079fa0-6202-11e8-8fcc-8474c56d384e.gif)
 
 I added a text to keep track of the score:
+![screenshot 9](https://user-images.githubusercontent.com/38050222/40634587-a4013a4c-62aa-11e8-8201-7cdc6c8480a2.png)
