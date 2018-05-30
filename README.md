@@ -36,3 +36,7 @@ I added obstacles, and whenever the player touches an obstacle the play will not
 
 I added a text to keep track of the score:
 ![screenshot 9](https://user-images.githubusercontent.com/38050222/40634587-a4013a4c-62aa-11e8-8201-7cdc6c8480a2.png)
+
+I created three levels, and an annimation between two levels:
+![ezgif com-video-to-gif 5](https://user-images.githubusercontent.com/38050222/40700945-bbc8b70e-6390-11e8-9b3e-db8af3f24c87.gif)
+
