@@ -41,3 +41,5 @@ I created three levels, and an annimation between two levels:
 ![ezgif com-video-to-gif 5](https://user-images.githubusercontent.com/38050222/40700945-bbc8b70e-6390-11e8-9b3e-db8af3f24c87.gif)
 
 I added some music!
+
+I published my game on itch.io
