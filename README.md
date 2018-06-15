@@ -45,3 +45,5 @@ I added some music!
 I published my game on itch.io
 
 raphaelnacache.itch.io/drift
+
+Now connections with class materials:
