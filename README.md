@@ -47,3 +47,8 @@ I published my game on itch.io
 raphaelnacache.itch.io/drift
 
 Now connections with class materials:
+I was able to use a Lamda expression in C#. Instead of calling the event system, which made shortcuts.
+Another reason is that it makes my code look more readable!
+
+
+
