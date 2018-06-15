@@ -44,7 +44,7 @@ I added some music!
 
 I published my game on itch.io
 
-raphaelnacache.itch.io/drift
+https://raphaelnacache.itch.io/
 
 Now connections with class materials:
 I was able to use a Lamda expression in C#. Instead of calling the event system, which made shortcuts.
